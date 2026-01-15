@@ -1,0 +1,11 @@
+pandas
+nltk
+sentence-transformers
+transformers
+torch
+pinecone-client
+fastapi
+uvicorn
+streamlit
+langgraph
+python-dotenv
