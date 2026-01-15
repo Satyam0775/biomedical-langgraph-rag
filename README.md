@@ -3,6 +3,8 @@
 A production-ready **Retrieval-Augmented Retrieval (RAG)** system built on biomedical literature (PubMed), designed to **compare Semantic Chunking and Agentic Chunking** strategies using **LangGraph**, **Pinecone**, **FastAPI**, and **Streamlit**.
 
 ---
+<img width="183" height="350" alt="Screenshot 2026-01-15 194712" src="https://github.com/user-attachments/assets/58c60145-07f8-44a4-977e-e9f9b1315f8f" />
+
 
 ## 📌 Project Objective
 
