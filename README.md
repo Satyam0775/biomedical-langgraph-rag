@@ -1,4 +1,4 @@
-# 🧬 Biomedical LangGraph RAG System
+# 🧬Biomedical LangGraph Retrieval-Augmented Knowledge System
 
 A production-ready **Retrieval-Augmented Retrieval (RAG)** system built on biomedical literature (PubMed), designed to **compare Semantic Chunking and Agentic Chunking** strategies using **LangGraph**, **Pinecone**, **FastAPI**, and **Streamlit**.
 
